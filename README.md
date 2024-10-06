@@ -1,17 +1,31 @@
-a. Репозиторій для лабораторних робіт з навчальної дисципліни "Автоматизоване проєктування комп'ютерних систем".
-b. Завдання: розробити просту гру; 
-	меню: гра повинна мати меню, яке дозволяє змінювати параметри;
-	режими гри: - Користувач vs AI;
-				- Користувач vs Користувач;
-				- AI vs AI:
-					○ Випадкові кроки;
-					○ Стратегія на перемогу;
-	дії: - нова гра;
-		 - зберегти;
-		 - завантажити.
-c. Номер варіанту: 26;
-   Гра: rock paper scissors;
-   config format: JSON.
-d. HW - серверна частина. SW - клієнт. 
-	Програмна мова: C++. У розробці буде використовуватись бібліотека Qt. 
-	HW - Arduino Uno R3.
+# "Computer systems automated design" works
+This repository contains works for the course "Computer systems automated design".
+
+## Task 
+Develop a simple game;
+
+## Menu
+The game should have a menu that allows changing parameters;
+
+### Play Modes:
+- Man vs AI
+- Man vs Man
+- AI vs AI:
+  - Random move;
+  - Win strategy;
+
+### Actions:
+- New;
+- Save;
+- Load;
+
+## Student Information
+- **Student Number:** 26.
+- **Game:** rock paper scissors.
+- **Configuration Format:** JSON.
+
+## Technology details
+- HW - server, SW - client.
+- **Programming Languages:** C++ and Qt library.
+- **HW:** Arduino UNO R3.
+
